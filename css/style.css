@@ -1,0 +1,157 @@
+* {
+  border: 0;
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+
+body {
+  background-color: #f5f7fa;
+  padding: 20px;
+  font-family: Montserrat;
+}
+
+.wrapper {
+  background: #ffffff;
+  display: flex;
+  width: 1200px;
+  height: 1319px;
+  box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+}
+
+.sidebar {
+  background-color: #1e2939;
+  width: 370px;
+  height: 1319px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.my-photo {
+  width: 370px;
+}
+.about-me {
+  padding-top: 110px;
+  padding-bottom: 110px;
+  padding-left: 90px;
+  padding-right: 90px;
+}
+
+.contacts {
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 57px;
+}
+.tech-skills {
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 55px;
+}
+.soft-skills {
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 52px;
+}
+
+.Sidebar-titles {
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  padding-bottom: 15px;
+}
+
+.C-letter {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0.42px;
+  line-height: 24px;
+}
+
+.tel {
+  color: #5c6470;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  text-decoration: none;
+  padding-left: 10px;
+}
+
+.email {
+  color: #5c6470;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  padding-left: 10px;
+}
+.skills {
+  color: #ff6b08;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0.42px;
+  line-height: 24px;
+  list-style-position: inside;
+}
+.skills-color {
+  color: #ffffff;
+}
+
+.main-title {
+  font-size: 14px;
+  font-weight: 700;
+  padding-bottom: 24px;
+}
+
+.My-Name {
+  font-size: 45px;
+  font-weight: 700;
+  padding-bottom: 20px;
+}
+
+.title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  padding-top: 60px;
+}
+
+.projects-list {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  list-style-position: inside;
+}
+
+.main-text {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  width: 413px;
+  text-decoration: none;
+  list-style-position: inside;
+}
+
+.subtitle {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  padding-top: 18px;
+}
+
+.subtitle-emph {
+  color: #ff6b08;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  padding-top: 18px;
+}
+
+.subtitle-period {
+  color: #a8a8a8;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 24px;
+  padding-bottom: 14px;
+}
